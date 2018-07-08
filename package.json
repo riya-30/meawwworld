@@ -1,0 +1,25 @@
+{
+  "name": "videorecorder",
+  "version": "1.0.1",
+  "description": "video recording library",
+  "main": "index.js",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-copy": "^0.8.2",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-uglify": "^0.11.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webrtc",
+    "html5",
+    "getUserMedia",
+    "MediaStreamRecorder",
+    "video",
+    "audio",
+    "record"
+  ]
+}
